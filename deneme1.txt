@@ -1,9 +1,6 @@
 ender
 test
 eee
-<<<<<<< HEAD
-ddd
-=======
 ddd
 ccc
->>>>>>> origin/main
+ata ata
