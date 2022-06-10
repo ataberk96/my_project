@@ -1,10 +1,17 @@
 ender
 test
 eee
+<<<<<<< HEAD
+ddd
+=======
 ddd
 <<<<<<< HEAD
 ccc
+<<<<<<< HEAD
 ata ata
 berk
 =======
 >>>>>>> parent of 33c922e (c ler eklendi)
+=======
+>>>>>>> origin/main
+>>>>>>> parent of ea86c54 (ata eklendi)
