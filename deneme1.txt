@@ -2,6 +2,9 @@ ender
 test
 eee
 ddd
+<<<<<<< HEAD
 ccc
 ata ata
 berk
+=======
+>>>>>>> parent of 33c922e (c ler eklendi)
